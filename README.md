@@ -51,3 +51,10 @@ Developed during Summer Internship Program 2026 conducted by PhiScape Robotics P
 ## Schematic
 
 ![Schematic](schematic.png)
+
+
+## Demo Video
+
+Watch the project demonstration here:
+
+https://studio.youtube.com/video/nYQqGMeUOKo/edit

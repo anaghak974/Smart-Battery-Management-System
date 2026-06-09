@@ -34,15 +34,15 @@ Developed during Summer Internship Program 2026 conducted by PhiScape Robotics P
 
 ## Block Diagram
 
-![Block Diagram](Block_diagram.png)
+![Block Diagram](Blockdiagram.png)
 
 ## Circuit Diagram
 
-![Circuit Diagram](circuit_diagram.png)
+![Circuit Diagram](circuitdiagram.png)
 
 ## PCB Design
 
-![PCB](PCB_Design.png)
+![PCB](PCBDesign.png)
 
 ## 3D Model
 
